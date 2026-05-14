@@ -13,7 +13,7 @@ def hello():
     <body style="font-family: Arial; text-align: center; margin-top: 100px;">
 
         <div style="border: 2px solid black; padding: 20px; width: 300px; margin: auto; border-radius: 10px;">
-            <h2>🚀 CI/CD PIPELINE</h2>
+            <h2>Final Learning Task</h2>
             <h1 style="color: green;">Hello, World! by Joshua</h1>
             <p>Flask • Docker • GitHub Actions</p>
         </div>
